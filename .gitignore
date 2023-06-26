@@ -1,0 +1,36 @@
+# Java build files
+target/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Maven files
+**/target/
+**/pom.xml.tag
+**/pom.xml.releaseBackup
+**/pom.xml.versionsBackup
+**/pom.xml.next
+**/release.properties
+
+# Compiled class files
+**/*.class
+
+# Logs and temporary files
+*.log
+*.log.*
+*.tmp
+*.swp
+*~
+
+# Gradle specific files
+.gradle/
+build/
+
+# Compiled FXML files
+**/*.fxml.bin
+
+# Package files
+*.jar
+*.war
+*.ear
